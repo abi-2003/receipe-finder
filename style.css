@@ -38,6 +38,7 @@
     border: none;
     font-weight: 600;
     border-radius: 0.3em;
+    color: white;
   }
   img {
     display: block;
@@ -50,6 +51,7 @@
     margin: -4.3em 0 0 0;
     text-align: center;
     padding: 0.6em 0;
+      color:white;
   }
   .details h2 {
     font-size: 1.2em;
@@ -69,6 +71,7 @@
     top: 1.5em;
     border-radius: 0.3em;
     font-weight: 600;
+      color:white;
   }
   #recipe {
     position: absolute;
